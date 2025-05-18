@@ -1,5 +1,6 @@
 {
   "name": "zana-portfolio",
+  "homepage": "https://zanatatarx.github.io/zana-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
